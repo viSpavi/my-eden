@@ -9,4 +9,5 @@
 #
 
 function fish_greeting
+	echo "siiiiiiiike"
 end
